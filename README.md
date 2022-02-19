@@ -25,12 +25,12 @@ In this folder there is a file that contains the iterative and recursive version
 
 <img src="https://github.com/Hsillman/Popular-algorithms/blob/main/Images/Preorder-Inorder-and-Postorder-traversals.jpg" width="400" height="300">
 
-#### * Breadth-First-Traversal
+ * Breadth-First-Traversal
 In the Tree Traversals folder there is a implementation of Breadth-First-Traversal. Download the file inside the TreeTraversals folder and run it with `python Breadth-First-Traversal-Tree.py`. You can modify the Tree structure to your desire.
 
 <img src="https://github.com/Hsillman/Popular-algorithms/blob/main/Images/Breadth-First-Traversal-Tree.png" width="450" height="250">
 
-### 2.2Height of a binary tree
+### 2.2 Height of a binary tree
 Download the file, change the tree to your desire and run it using `python HeightOfBinaryTree.py`
 
 <img src="https://github.com/Hsillman/Popular-algorithms/blob/main/Images/HeightOfBinaryTree.png" width="450" height="250">
