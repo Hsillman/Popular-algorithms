@@ -5,7 +5,8 @@ This repo contains some well known algorithms but also some good variations of t
 │   ├── TreeTraversals                                   # Folder containing Binary Tree Traversals algorithms
 │   │         ├── Breadth-First-Traversal-Tree.py        # Python code for level traversal of a binary tree.
 │   │         └── Depth-First-Traversal-Tree.py          # Python code for depth traversal of a binary tree.
-│   └── HeightOfBinaryTree.py                            # Python conde to find the height of a binary tree.
+│   ├── HeightOfBinaryTree.py                            # Python code to find the height of a binary tree.
+│   └── HasPathSumFromRootToLeaf.py                      # Python code to check if a binary tree has root to leaft sum given as input
 ├── Images                                               # Images used for the README.md file
 ├── README.md  
 └── mergeSort.py                                         # Python code for merge sort algorithm.
@@ -32,5 +33,10 @@ In the Tree Traversals folder there is a implementation of Breadth-First-Travers
 
 ### 2.2 Height of a binary tree
 Download the file, change the tree to your desire and run it using `python HeightOfBinaryTree.py`
+
+<img src="https://github.com/Hsillman/Popular-algorithms/blob/main/Images/HeightOfBinaryTree.png" width="450" height="250">
+
+### 2.3 Has Path sum from root to leaf
+This code returns True if there is any root to leaf path sum equals to the sum provided as input to the function. Download the file, change the tree to your desire and run it using `python HasPathSumFromRootToLeaf.py `
 
 <img src="https://github.com/Hsillman/Popular-algorithms/blob/main/Images/HeightOfBinaryTree.png" width="450" height="250">
