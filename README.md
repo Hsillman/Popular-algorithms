@@ -39,4 +39,4 @@ Download the file, change the tree to your desire and run it using `python Heigh
 ### 2.3 Has Path sum from root to leaf
 This code returns True if there is any root to leaf path sum equals to the sum provided as input to the function. Download the file, change the tree to your desire and run it using `python HasPathSumFromRootToLeaf.py `
 
-<img src="https://github.com/Hsillman/Popular-algorithms/blob/main/Images/HeightOfBinaryTree.png" width="450" height="250">
+<img src="https://github.com/Hsillman/Popular-algorithms/blob/main/Images/HasPathSumFromRootToLeaf.jpg" width="450" height="250">
