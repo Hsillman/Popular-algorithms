@@ -1,6 +1,6 @@
 # Popular-algorithms
 This repo contains some well known algorithms but also some good variations of their usage.
-
+```bash
 ├── BinaryTreeAlgos                                      # Folder containing all things Binary Tree related.
 │   ├── TreeTraversals                                   # Folder containing Binary Tree Traversals algorithms
 │   │         ├── Breadth-First-Traversal-Tree.py        # Python code for level traversal of a binary tree.
@@ -9,7 +9,7 @@ This repo contains some well known algorithms but also some good variations of t
 ├── Images                                               # Images used for the README.md file
 ├── README.md  
 └── mergeSort.py                                         # Python code for merge sort algorithm.
-
+```
 ## Merge Sort
 Download the mergeSort.py file, change the array you want to sort and run it with `python mergeSort.py`. 
 The time complexity of this algorithm is O(nlogn) and the space complexity is O(n). Further explanation inside the mergeSort.py file.
