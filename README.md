@@ -18,16 +18,20 @@ This repo contains some well known algorithms but also some good variations of t
 ```
 ## 1. Sorting Algorithms
 ### 1.1 Selection Sort
+Download the SelectionSort.py file, change the array you want to sort and run it with `python SelectionSort.py`. 
 ### 1.2 Bubble Sort
+Download the BubbleSort.py file, change the array you want to sort and run it with `python BubbleSort.py`. 
 ### 1.3 Insertion Sort
+Download the InsertionSort.py file, change the array you want to sort and run it with `python InsertionSort.py`. 
 ### 1.4 Merge Sort
 Download the mergeSort.py file, change the array you want to sort and run it with `python mergeSort.py`. 
 The time complexity of this algorithm is O(nlogn) and the space complexity is O(n). Further explanation inside the mergeSort.py file.
 
 
 <img src="https://github.com/Hsillman/Popular-algorithms/blob/main/Images/mergeSort.png" width="400" height="300">
-### 1.5 Counting Sort
 
+### 1.5 Counting Sort
+Download the CountingSort.py file, change the array you want to sort and run it with `python CountingSort.py`. 
 
 ## 2. Binary Tree Algorithms
 ### 2.1 Tree Traversals
