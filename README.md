@@ -19,7 +19,9 @@ This repo contains some well known algorithms but also some good variations of t
 ## 1. Sorting Algorithms
 ### 1.1 Selection Sort
 Download the SelectionSort.py file, change the array you want to sort and run it with `python SelectionSort.py`. 
+
 Best scenario: O(n^2)
+
 Worst scenario: O(n^2)
 
 <img src="https://github.com/Hsillman/Popular-algorithms/blob/main/Images/SelectionSort.jpg" width="350" height="300">
