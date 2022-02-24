@@ -37,6 +37,13 @@ Worst scenario: O(n^2)
 
 ### 1.3 Insertion Sort
 Download the InsertionSort.py file, change the array you want to sort and run it with `python InsertionSort.py`. 
+
+Best scenario: O(n)
+
+Worst scenario: O(n^2)
+
+<img src="https://github.com/Hsillman/Popular-algorithms/blob/main/Images/InsertionSort.png" width="400" height="300">
+
 ### 1.4 Merge Sort
 Download the mergeSort.py file, change the array you want to sort and run it with `python mergeSort.py`. 
 The time complexity of this algorithm is O(nlogn) and the space complexity is O(n). Further explanation inside the mergeSort.py file.
