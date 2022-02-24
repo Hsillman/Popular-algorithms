@@ -23,11 +23,16 @@ Download the SelectionSort.py file, change the array you want to sort and run it
 Best scenario: O(n^2)
 
 Worst scenario: O(n^2)
-
 <img src="https://github.com/Hsillman/Popular-algorithms/blob/main/Images/SelectionSort.jpg" width="350" height="300">
 
 ### 1.2 Bubble Sort
 Download the BubbleSort.py file, change the array you want to sort and run it with `python BubbleSort.py`. 
+
+Best scenario: O(n)
+
+Worst scenario: O(n^2)
+<img src="https://github.com/Hsillman/Popular-algorithms/blob/main/Images/BubbleSort.png" width="400" height="300">
+
 ### 1.3 Insertion Sort
 Download the InsertionSort.py file, change the array you want to sort and run it with `python InsertionSort.py`. 
 ### 1.4 Merge Sort
