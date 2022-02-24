@@ -20,7 +20,7 @@ This repo contains some well known algorithms but also some good variations of t
 ### 1.1 Selection Sort
 Download the SelectionSort.py file, change the array you want to sort and run it with `python SelectionSort.py`. 
 
-<img src="https://github.com/Hsillman/Popular-algorithms/blob/main/Images/SelectionSort.jpg" width="400" height="300">
+<img src="https://github.com/Hsillman/Popular-algorithms/blob/main/Images/SelectionSort.jpg" width="350" height="300">
 
 ### 1.2 Bubble Sort
 Download the BubbleSort.py file, change the array you want to sort and run it with `python BubbleSort.py`. 
