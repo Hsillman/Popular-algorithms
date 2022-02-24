@@ -9,14 +9,25 @@ This repo contains some well known algorithms but also some good variations of t
 │   └── HasPathSumFromRootToLeaf.py                      # Python code to check if a binary tree has root to leaft sum given as input
 ├── Images                                               # Images used for the README.md file
 ├── README.md  
-└── mergeSort.py                                         # Python code for merge sort algorithm.
+└── SortingAlgos                                         # Folder with sorting algorithms.
+           ├── SelectionSort.py
+           ├── BubbleSort.py 
+           ├── InsertionSort.py
+           ├── mergeSort.py
+           └── CountingSort.py 
 ```
-## 1. Merge Sort
+## 1. Sorting Algorithms
+### 1.1 Selection Sort
+### 1.2 Bubble Sort
+### 1.3 Insertion Sort
+### 1.4 Merge Sort
 Download the mergeSort.py file, change the array you want to sort and run it with `python mergeSort.py`. 
 The time complexity of this algorithm is O(nlogn) and the space complexity is O(n). Further explanation inside the mergeSort.py file.
 
 
 <img src="https://github.com/Hsillman/Popular-algorithms/blob/main/Images/mergeSort.png" width="400" height="300">
+### 1.5 Counting Sort
+
 
 ## 2. Binary Tree Algorithms
 ### 2.1 Tree Traversals
