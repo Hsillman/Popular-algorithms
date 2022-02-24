@@ -46,8 +46,10 @@ Worst scenario: O(n^2)
 
 ### 1.4 Merge Sort
 Download the mergeSort.py file, change the array you want to sort and run it with `python mergeSort.py`. 
-The time complexity of this algorithm is O(nlogn) and the space complexity is O(n). Further explanation inside the mergeSort.py file.
 
+Best scenario: O(nlogn)
+
+Worst scenario: O(nlogn)
 
 <img src="https://github.com/Hsillman/Popular-algorithms/blob/main/Images/mergeSort.png" width="400" height="300">
 
