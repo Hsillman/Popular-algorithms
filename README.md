@@ -70,7 +70,7 @@ Best scenario: O(nlogn)
 
 Worst scenario: O(n^2)
 
-<img src="https://github.com/Hsillman/Popular-algorithms/blob/main/Images/QuickSort.png" width="400" height="500">
+<img src="https://github.com/Hsillman/Popular-algorithms/blob/main/Images/QuickSort.png" width="450" height="500">
 
 
 ## 2. Binary Tree Algorithms
