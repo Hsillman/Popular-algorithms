@@ -9,7 +9,7 @@ This repo contains some well known algorithms but also some good variations of t
 │   └── HasPathSumFromRootToLeaf.py                      # Python code to check if a binary tree has root to leaft sum given as input.
 ├── Images                                               # Images used for the README.md file.
 ├── README.md
-├── BinarySerach.py                                      # Python code for binary search.
+├── BinarySearch.py                                      # Python code for binary search.
 └── SortingAlgos                                         # Folder with sorting algorithms.
            ├── SelectionSort.py
            ├── BubbleSort.py 
@@ -62,6 +62,15 @@ Best scenario: O(n+k)
 Worst scenario: O(n+k)
 
 <img src="https://github.com/Hsillman/Popular-algorithms/blob/main/Images/CountingSort.png" width="550" height="300">
+
+### 1.5 Quick Sort
+Download the file, change the array you want to sort and run it with `python QuickSort.py`. 
+
+Best scenario: O(nlogn)
+
+Worst scenario: O(n^2)
+
+<img src="https://github.com/Hsillman/Popular-algorithms/blob/main/Images/QuickSort.png" width="400" height="500">
 
 
 ## 2. Binary Tree Algorithms
