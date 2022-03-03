@@ -56,6 +56,9 @@ Worst scenario: O(nlogn)
 ### 1.5 Counting Sort
 Download the CountingSort.py file, change the array you want to sort and run it with `python CountingSort.py`. 
 
+<img src="https://github.com/Hsillman/Popular-algorithms/blob/main/Images/CountingSort.png" width="400" height="300">
+
+
 ## 2. Binary Tree Algorithms
 ### 2.1 Tree Traversals
 ####  Depth-First-Traversal
