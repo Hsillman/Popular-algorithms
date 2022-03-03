@@ -34,8 +34,5 @@ class BubbleSort:
                 break
         return arr
 
-   
-
-
 s = BubbleSort()
 print(s.bubblesort([5,1,4,2,8]))

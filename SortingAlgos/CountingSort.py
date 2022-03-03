@@ -1,9 +1,11 @@
 from typing import List
 '''
-Counting sort is a sorting technique based on keys between a specific range. 
-It works by counting the number of objects having distinct key values (kind of hashing). 
-Then doing some arithmetic to calculate the position of each object in the output sequence.
-This algorithm is made for poisitive ranges only
+- Counting sort is a sorting technique based on keys between a specific range. 
+- It works by counting the number of objects having distinct key values (kind of hashing). 
+- Then doing some arithmetic to calculate the position of each object in the output sequence.
+- This algorithm is made for poisitive ranges only.
+- Time complexity is O(n).
+- Space complexity is O(n) where n is the range of numbers that need to be sorted.
 '''
 class CountingSort:
     def countingSort(self, nums: List[int]) -> None:
