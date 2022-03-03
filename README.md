@@ -6,9 +6,10 @@ This repo contains some well known algorithms but also some good variations of t
 │   │         ├── Breadth-First-Traversal-Tree.py        # Python code for level traversal of a binary tree.
 │   │         └── Depth-First-Traversal-Tree.py          # Python code for depth traversal of a binary tree.
 │   ├── HeightOfBinaryTree.py                            # Python code to find the height of a binary tree.
-│   └── HasPathSumFromRootToLeaf.py                      # Python code to check if a binary tree has root to leaft sum given as input
-├── Images                                               # Images used for the README.md file
-├── README.md  
+│   └── HasPathSumFromRootToLeaf.py                      # Python code to check if a binary tree has root to leaft sum given as input.
+├── Images                                               # Images used for the README.md file.
+├── README.md
+├── BinarySerach.py                                      # Python code for binary search.
 └── SortingAlgos                                         # Folder with sorting algorithms.
            ├── SelectionSort.py
            ├── BubbleSort.py 
@@ -85,3 +86,13 @@ Download the file, change the tree to your desire and run it using `python Heigh
 This code returns True if there is any root to leaf path sum equals to the sum provided as input to the function. Download the file, change the tree to your desire and run it using `python HasPathSumFromRootToLeaf.py `
 
 <img src="https://github.com/Hsillman/Popular-algorithms/blob/main/Images/HasPathSumFromRootToLeaf.jpg" width="400" height="250">
+
+## 3. Binary Search
+Download the file, change the array and pass a target value to the function. Run the code with `python BinarySearch.py`
+
+Best scenario: O(1)
+
+Worst scenario: O(logn)
+
+<img src="https://github.com/Hsillman/Popular-algorithms/blob/main/Images/BinarySearch.png" width="450" height="250">
+
