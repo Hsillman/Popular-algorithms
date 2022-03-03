@@ -15,6 +15,7 @@ This repo contains some well known algorithms but also some good variations of t
            ├── BubbleSort.py 
            ├── InsertionSort.py
            ├── mergeSort.py
+           ├── QuickSort.py
            └── CountingSort.py 
 ```
 ## 1. Sorting Algorithms
