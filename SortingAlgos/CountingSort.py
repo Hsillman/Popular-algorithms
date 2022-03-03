@@ -4,8 +4,8 @@ from typing import List
 - It works by counting the number of objects having distinct key values (kind of hashing). 
 - Then doing some arithmetic to calculate the position of each object in the output sequence.
 - This algorithm is made for poisitive ranges only.
-- Time complexity is O(n).
-- Space complexity is O(n) where n is the range of numbers that need to be sorted.
+- Time complexity is O(n+k) where n is the number of elements in the array and k is the range of the elements.
+- Space complexity is O(k) where k is the range of the elements.
 '''
 class CountingSort:
     def countingSort(self, nums: List[int]) -> None:
