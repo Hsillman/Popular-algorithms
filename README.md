@@ -7,6 +7,8 @@ This repo contains some well known algorithms but also some good variations of t
 │   │         └── Depth-First-Traversal-Tree.py          # Python code for depth traversal of a binary tree.
 │   ├── HeightOfBinaryTree.py                            # Python code to find the height of a binary tree.
 │   └── HasPathSumFromRootToLeaf.py                      # Python code to check if a binary tree has root to leaft sum given as input.
+├── LinkedLists
+│   ├── MergeTwoSortedLists.py                           # Python code for merging two sorted linked lists.
 ├── Images                                               # Images used for the README.md file.
 ├── README.md
 ├── BinarySearch.py                                      # Python code for binary search.
@@ -105,4 +107,10 @@ Best scenario: O(1)
 Worst scenario: O(logn)
 
 <img src="https://github.com/Hsillman/Popular-algorithms/blob/main/Images/BinarySearch.png" width="450" height="250">
+
+## 3. Linked Lists
+### 3.1 Merging two sorted lists
+Download the file, change the lists and see the result by executing `python MergeTwoSortedLists.py`
+
+<img src="https://github.com/Hsillman/Popular-algorithms/blob/main/Images/MergeTwoSortedLists.jpg" width="450" height="250">
 
