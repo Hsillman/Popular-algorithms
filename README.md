@@ -112,5 +112,5 @@ Worst scenario: O(logn)
 ### 3.1 Merging two sorted lists
 Download the file, change the lists and see the result by executing `python MergeTwoSortedLists.py`
 
-<img src="https://github.com/Hsillman/Popular-algorithms/blob/main/Images/MergeTwoSortedLists.jpg" width="450" height="250">
+<img src="https://github.com/Hsillman/Popular-algorithms/blob/main/Images/MergeTwoSortedLists.jpg" width="550" height="250">
 
