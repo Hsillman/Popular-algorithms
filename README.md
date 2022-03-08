@@ -115,7 +115,7 @@ Download the file, change the lists and see the result by executing `python Merg
 
 <img src="https://github.com/Hsillman/Popular-algorithms/blob/main/Images/MergeTwoSortedLists.jpg" width="550" height="250">
 
-### 3.1 Reverse linked lists
+### 3.2 Reverse linked lists
 Download the file, change the list and see the result by executing `python ReverseLinkedList.py`
 
 <img src="https://github.com/Hsillman/Popular-algorithms/blob/main/Images/ReverseLinkedList.png" width="550" height="200">
