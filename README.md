@@ -10,6 +10,7 @@ This repo contains some well known algorithms but also some good variations of t
 ├── LinkedLists
 │   ├── MergeTwoSortedLists.py                           # Python code for merging two sorted linked lists.
 │   ├── ReverseLinkedList.py                             # Python code for reversing a linked list.
+│   └── ZipperLists.py                                   # Python code to create a zipper list from two input lists.
 ├── Images                                               # Images used for the README.md file.
 ├── README.md
 ├── BinarySearch.py                                      # Python code for binary search.
@@ -119,3 +120,9 @@ Download the file, change the lists and see the result by executing `python Merg
 Download the file, change the list and see the result by executing `python ReverseLinkedList.py`
 
 <img src="https://github.com/Hsillman/Popular-algorithms/blob/main/Images/ReverseLinkedList.png" width="550" height="200">
+
+### 3.3 Zipper lists
+Download the file, change the lists and see the result by executing `python ZipperLists.py`
+
+<img src="https://github.com/Hsillman/Popular-algorithms/blob/main/Images/ZipperList.png" width="550" height="200">
+
