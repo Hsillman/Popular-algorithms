@@ -124,5 +124,5 @@ Download the file, change the list and see the result by executing `python Rever
 ### 3.3 Zipper lists
 Download the file, change the lists and see the result by executing `python ZipperLists.py`
 
-<img src="https://github.com/Hsillman/Popular-algorithms/blob/main/Images/ZipperList.png" width="550" height="200">
+<img src="https://github.com/Hsillman/Popular-algorithms/blob/main/Images/ZipperList.png" width="600" height="150">
 
