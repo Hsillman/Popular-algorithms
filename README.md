@@ -11,6 +11,8 @@ This repo contains some well known algorithms but also some good variations of t
 │   ├── MergeTwoSortedLists.py                           # Python code for merging two sorted linked lists.
 │   ├── ReverseLinkedList.py                             # Python code for reversing a linked list.
 │   └── ZipperLists.py                                   # Python code to create a zipper list from two input lists.
+├── Two Pointers                                         # Python code for Two Pointer problems.
+│   ├── SumThreeValues.py   
 ├── Images                                               # Images used for the README.md file.
 ├── README.md
 ├── BinarySearch.py                                      # Python code for binary search.
@@ -20,7 +22,8 @@ This repo contains some well known algorithms but also some good variations of t
            ├── InsertionSort.py
            ├── mergeSort.py
            ├── QuickSort.py
-           └── CountingSort.py 
+           └── CountingSort.py
+
 ```
 ## 1. Sorting Algorithms
 ### 1.1 Selection Sort
